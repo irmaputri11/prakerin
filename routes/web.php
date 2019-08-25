@@ -69,3 +69,10 @@ Route::get('tag', function () {
 Route::get('artikel', function () {
     return view('artikel');
 });
+
+//Route Frontend
+Route::get('/', 'FrontendController@index');
+Route::get('katalog', 'FrontendController@katalog');
+Route::get('about', 'FrontendController@tentang');
+Route::get('katalog/{artikel}', 'FrontendController@singlekatalog');
+
