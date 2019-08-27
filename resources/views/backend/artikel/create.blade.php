@@ -94,7 +94,7 @@
                                             <label for="">Konten</label>
                                             <textarea class="form-control ckeditor"
                                             name="konten"id="ckeditor" required>
-                                            </textarea>
+                                            </textarea> &nbsp &nbsp &nbsp &nbsp
                                             @error('konten')
                                             <span class="invalid-feedback" role="alert">
                                                 <strong>{{$message}}</strong>

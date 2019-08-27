@@ -30,7 +30,7 @@ $(function () {
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
-										<a href="/blog/">
+                                <a href="/blog/${value.slug}">
 											<h4>${value.judul}</h4>
 										</a>
 										<ul class="meta">

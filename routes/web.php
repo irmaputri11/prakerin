@@ -71,8 +71,8 @@ Route::get('artikel', function () {
 });
 
 //Route Frontend
-Route::get('/', 'FrontendController@index');
-Route::get('katalog', 'FrontendController@katalog');
-Route::get('about', 'FrontendController@tentang');
-Route::get('katalog/{artikel}', 'FrontendController@singlekatalog');
+Route::resource('/', 'frondendController');
+Route::get('blog', 'frondendController@index');
+Route::get('about', 'frondendController@tentang');
+Route::get('blog/{artikel}', 'frondendController@singleblog');
 

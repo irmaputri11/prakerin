@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zxx" class="no-js') }}">
+<html lang="zxx" class="no-js">
 	<head>
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="{{asset('assets/magazine/img/fav.png') }}">
+		<link rel="shortcut icon" href="{{asset('assets/magazine/img/fav.png')}}">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -19,15 +19,15 @@
 		<!--
 		CSS
 		============================================= -->
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/linearicons.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/font-awesome.min.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/bootstrap.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/magnific-popup.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/nice-select.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/animate.min.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/owl.carousel.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/jquery-ui.css') }}">
-		<link rel="stylesheet" href="{{asset('assets/magazine/css/main.css') }}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/linearicons.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/font-awesome.min.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/bootstrap.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/magnific-popup.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/nice-select.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/animate.min.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/owl.carousel.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/jquery-ui.css')}}">
+		<link rel="stylesheet" href="{{asset('assets/magazine/css/main.css')}}">
 	</head>
 	<body>
 		<header>
@@ -37,16 +37,16 @@
 					<div class="row">
 						<div class="col-lg-6 col-md-6 col-sm-6 col-6 header-top-left no-padding">
 							<ul>
-								<li><a href="{{asset('assets/magazine/#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="{{asset('assets/magazine/#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="{{asset('assets/magazine/#"><i class="fa fa-dribbble"></i></a></li>
-								<li><a href="{{asset('assets/magazine/#"><i class="fa fa-behance"></i></a></li>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+								<li><a href="#"><i class="fa fa-behance"></i></a></li>
 							</ul>
 						</div>
 						<div class="col-lg-6 col-md-6 col-sm-6 col-6 header-top-right no-padding">
 							<ul>
-								<li><a href="{{asset('assets/magazine/tel:+440 012 3654 896"><span class="lnr lnr-phone-handset"></span><span>+440 012 3654 896</span></a></li>
-								<li><a href="{{asset('assets/magazine/mailto:support@colorlib.com"><span class="lnr lnr-envelope"></span><span>support@colorlib.com</span></a></li>
+								<li><a href="tel:+440 012 3654 896"><span class="lnr lnr-phone-handset"></span><span>+440 012 3654 896</span></a></li>
+								<li><a href="mailto:support@colorlib.com"><span class="lnr lnr-envelope"></span><span>support@colorlib.com</span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -56,13 +56,13 @@
 				<div class="container">
 					<div class="row justify-content-between align-items-center">
 						<div class="col-lg-4 col-md-4 col-sm-12 logo-left no-padding">
-							<a href="{{asset('assets/magazine/index.html">
-								<img class="img-fluid" src="{{asset('assets/magazine/img/logo.png') }}" alt="">
+							<a href="index.html">
+								<img class="img-fluid" src="{{asset('assets/magazine/img/logo.png')}}" alt="">
 							</a>
 						</div>
 						<div class="col-lg-8 col-md-8 col-sm-12 logo-right no-padding ads-banner">
-							<img class="img-fluid" src="{{asset('assets/magazine/img/banner-ad.jpg') }}" alt="">
 						</div>
+							<img class="img-fluid" src="{{asset('assets/magazine/img/banner-ad.jpg')}}" alt="">
 					</div>
 				</div>
 			</div>
@@ -70,20 +70,20 @@
 				<div class="row align-items-center justify-content-between">
 					<nav id="nav-menu-container">
 						<ul class="nav-menu">
-							<li class="menu-active"><a href="{{asset('assets/magazine/index.html">Home</a></li>
-							<li><a href="{{asset('assets/magazine/archive.html">Archive</a></li>
-							<li><a href="{{asset('assets/magazine/category.html">Category</a></li>
-							<li class="menu-has-children"><a href="{{asset('assets/magazine/">Post Types</a>
+							<li class="menu-active"><a href="index.html">Home</a></li>
+							<li><a href="archive.html">Archive</a></li>
+							<li><a href="category.html">Category</a></li>
+							<li class="menu-has-children"><a href="">Post Types</a>
 							<ul>
-								<li><a href="{{asset('assets/magazine/standard-post.html">Standard Post</a></li>
-								<li><a href="{{asset('assets/magazine/image-post.html">Image Post</a></li>
-								<li><a href="{{asset('assets/magazine/gallery-post.html">Gallery Post</a></li>
-								<li><a href="{{asset('assets/magazine/video-post.html">Video Post</a></li>
-								<li><a href="{{asset('assets/magazine/audio-post.html">Audio Post</a></li>
+								<li><a href="standard-post.html">Standard Post</a></li>
+								<li><a href="image-post.html">Image Post</a></li>
+								<li><a href="gallery-post.html">Gallery Post</a></li>
+								<li><a href="video-post.html">Video Post</a></li>
+								<li><a href="audio-post.html">Audio Post</a></li>
 							</ul>
 						</li>
-						<li><a href="{{asset('assets/magazine/about.html">About</a></li>
-						<li><a href="{{asset('assets/magazine/contact.html">Contact</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
 					</ul>
 					</nav><!-- #nav-menu-container -->
 					<div class="navbar-right">
@@ -108,13 +108,13 @@
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="hero-nav-area">
-								<h1 class="text-white">Image Post</h1>
-								<p class="text-white link-nav"><a href="{{asset('assets/magazine/index.html">Home </a>  <span class="lnr lnr-arrow-right"></span><a href="{{asset('assets/magazine/#">Post Types </a><span class="lnr lnr-arrow-right"></span><a href="{{asset('assets/magazine/image-post.html">Image Post </a></p>
+								<h1 class="text-white">Gallery Post</h1>
+								<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span><a href="#">Post Types </a><span class="lnr lnr-arrow-right"></span><a href="gallery-post.html">Gallery Post </a></p>
 							</div>
 						</div>
 						<div class="col-lg-12">
 							<div class="news-tracker-wrap">
-								<h6><span>Breaking News:</span>   <a href="{{asset('assets/magazine/#">Astronomy Binoculars A Great Alternative</a></h6>
+								<h6><span>Breaking News:</span>   <a href="#">Astronomy Binoculars A Great Alternative</a></h6>
 							</div>
 						</div>
 					</div>
@@ -122,27 +122,45 @@
 			</section>
 			<!-- End top-post Area -->
 			<!-- Start latest-post Area -->
+		
 			<section class="latest-post-area pb-120">
 				<div class="container no-padding">
 					<div class="row">
 						<div class="col-lg-8 post-list">
 							<!-- Start single-post Area -->
-							<div class="single-post-wrap">
+							@foreach ($artikel as $data )
+            					<h1>{{ $data->judul }}</h1>
+            					<div class="post_commentbox"> <a href="#"><i class="fa fa-user"></i>Wpfreeware</a> <span><i class="fa fa-calendar"></i>6:49 AM</span> <a href="#"><i class="fa fa-tags"></i>Technology</a> </div>
+								<div class="row">
+								<div class="col">
+									<div class="collapse multi-collapse" id="multiCollapseExample1">
+										<ul class="list-group list-group-flush">
+										</ul>
+											
+									</div>
+									</div>
+								</div>
+							<p>{{ $data->konten}}</p>@endforeach
+              <!-- <div class="single-post-wrap">
 								<div class="feature-img-thumb relative">
-									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="{{asset('assets/magazine/img/f1.jpg') }}" alt="">
+									<div class="active-gallery-carusel">
+										<div class="single-img relative">
+											<div class="overlay overlay-bg"></div>
+											<img class="img-fluid item" src="{{asset('assets/magazine/img/g1.jpg')}}" alt="">
+										</div>	
+									</div>
 								</div>
 								<div class="content-wrap">
 									<ul class="tags mt-10">
-										<li><a href="{{asset('assets/magazine/#">Food Habit</a></li>
+										<li><a href="#">Food Habit</a></li>
 									</ul>
-									<a href="{{asset('assets/magazine/#">
+									<a href="#">
 										<h3>A Discount Toner Cartridge Is Better Than Ever.</h3>
 									</a>
 									<ul class="meta pb-20">
-										<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-user"></span>Mark wiens</a></li>
-										<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-										<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06 </a></li>
+										<li><a href="#"><span class="lnr lnr-user"></span>Mark wiens</a></li>
+										<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+										<li><a href="#"><span class="lnr lnr-bubble"></span>06 </a></li>
 									</ul>
 									<p>
 										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -153,8 +171,8 @@
 								<blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</blockquote>
 								
 								<div class="navigation-wrap justify-content-between d-flex">
-									<a class="prev" href="{{asset('assets/magazine/#"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
-									<a class="next" href="{{asset('assets/magazine/#">Next Post<span class="lnr lnr-arrow-right"></span></a>
+									<a class="prev" href="#"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
+									<a class="next" href="#">Next Post<span class="lnr lnr-arrow-right"></span></a>
 								</div>
 								
 								<div class="comment-sec-area">
@@ -165,10 +183,10 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="{{asset('assets/magazine/img/blog/c1.jpg') }}" alt="">
+															<img src="{{asset('assets/magazine/img/blog/c1.jpg')}}" alt="">
 														</div>
 														<div class="desc">
-															<h5><a href="{{asset('assets/magazine/#">Emilly Blunt</a></h5>
+															<h5><a href="#">Emilly Blunt</a></h5>
 															<p class="date">December 4, 2017 at 3:12 pm </p>
 															<p class="comment">
 																Never say goodbye till the end comes!
@@ -176,7 +194,7 @@
 														</div>
 													</div>
 													<div class="reply-btn">
-														<a href="{{asset('assets/magazine/" class="btn-reply text-uppercase">reply</a>
+														<a href="" class="btn-reply text-uppercase">reply</a>
 													</div>
 												</div>
 											</div>
@@ -184,10 +202,10 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="{{asset('assets/magazine/img/blog/c2.jpg') }}" alt="">
+															<img src="{{asset('assets/magazine/img/blog/c2.jpg')}}" alt="">
 														</div>
 														<div class="desc">
-															<h5><a href="{{asset('assets/magazine/#">Emilly Blunt</a></h5>
+															<h5><a href="#">Emilly Blunt</a></h5>
 															<p class="date">December 4, 2017 at 3:12 pm </p>
 															<p class="comment">
 																Never say goodbye till the end comes!
@@ -195,7 +213,7 @@
 														</div>
 													</div>
 													<div class="reply-btn">
-														<a href="{{asset('assets/magazine/" class="btn-reply text-uppercase">reply</a>
+														<a href="" class="btn-reply text-uppercase">reply</a>
 													</div>
 												</div>
 											</div>
@@ -203,10 +221,10 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="{{asset('assets/magazine/img/blog/c3.jpg') }}" alt="">
+															<img src="{{asset('assets/magazine/img/blog/c3.jpg')}}" alt="">
 														</div>
 														<div class="desc">
-															<h5><a href="{{asset('assets/magazine/#">Emilly Blunt</a></h5>
+															<h5><a href="#">Emilly Blunt</a></h5>
 															<p class="date">December 4, 2017 at 3:12 pm </p>
 															<p class="comment">
 																Never say goodbye till the end comes!
@@ -214,7 +232,7 @@
 														</div>
 													</div>
 													<div class="reply-btn">
-														<a href="{{asset('assets/magazine/" class="btn-reply text-uppercase">reply</a>
+														<a href="" class="btn-reply text-uppercase">reply</a>
 													</div>
 												</div>
 											</div>
@@ -239,11 +257,11 @@
 									<div class="form-group">
 										<textarea class="form-control mb-10" rows="5" name="message" placeholder="Messege" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Messege'" required=""></textarea>
 									</div>
-									<a href="{{asset('assets/magazine/#" class="primary-btn text-uppercase">Post Comment</a>
+									<a href="#" class="primary-btn text-uppercase">Post Comment</a>
 								</form>
 							</div>
 						</div>
-						<!-- End single-post Area -->
+						End single-post Area -->
 					</div>
 					<div class="col-lg-4">
 						<div class="sidebars-area">
@@ -253,21 +271,21 @@
 									<div class="feature-img-wrap relative">
 										<div class="feature-img relative">
 											<div class="overlay overlay-bg"></div>
-											<img class="img-fluid" src="{{asset('assets/magazine/img/e1.jpg') }}" alt="">
+											<img class="img-fluid" src="{{asset('assets/magazine/img/e1.jpg')}}" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="{{asset('assets/magazine/#">Travel</a></li>
+											<li><a href="#">Travel</a></li>
 										</ul>
 									</div>
 									<div class="details">
-										<a href="{{asset('assets/magazine/image-post.html">
+										<a href="image-post.html">
 											<h4 class="mt-20">A Discount Toner Cartridge Is
 											Better Than Ever.</h4>
 										</a>
 										<ul class="meta">
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-user"></span>Mark wiens</a></li>
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06 </a></li>
+											<li><a href="#"><span class="lnr lnr-user"></span>Mark wiens</a></li>
+											<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>06 </a></li>
 										</ul>
 										<p class="excert">
 											Lorem ipsum dolor sit amet, consecteturadip isicing elit, sed do eiusmod tempor incididunt ed do eius.
@@ -276,40 +294,40 @@
 									<div class="post-lists">
 										<div class="single-post d-flex flex-row">
 											<div class="thumb">
-												<img src="{{asset('assets/magazine/img/e2.jpg') }}" alt="">
+												<img src="{{asset('assets/magazine/img/e2.jpg')}}" alt="">
 											</div>
 											<div class="detail">
-												<a href="{{asset('assets/magazine/image-post.html"><h6>Help Finding Information
+												<a href="image-post.html"><h6>Help Finding Information
 												Online is so easy</h6></a>
 												<ul class="meta">
-													<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-													<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+													<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+													<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 												</ul>
 											</div>
 										</div>
 										<div class="single-post d-flex flex-row">
 											<div class="thumb">
-												<img src="{{asset('assets/magazine/img/e3.jpg') }}" alt="">
+												<img src="{{asset('assets/magazine/img/e3.jpg')}}" alt="">
 											</div>
 											<div class="detail">
-												<a href="{{asset('assets/magazine/image-post.html"><h6>Compatible Inkjet Cartr
+												<a href="image-post.html"><h6>Compatible Inkjet Cartr
 												world famous</h6></a>
 												<ul class="meta">
-													<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-													<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+													<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+													<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 												</ul>
 											</div>
 										</div>
 										<div class="single-post d-flex flex-row">
 											<div class="thumb">
-												<img src="{{asset('assets/magazine/img/e4.jpg') }}" alt="">
+												<img src="{{asset('assets/magazine/img/e4.jpg')}}" alt="">
 											</div>
 											<div class="detail">
-												<a href="{{asset('assets/magazine/image-post.html"><h6>5 Tips For Offshore Soft
+												<a href="image-post.html"><h6>5 Tips For Offshore Soft
 												Development </h6></a>
 												<ul class="meta">
-													<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-													<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+													<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+													<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 												</ul>
 											</div>
 										</div>
@@ -317,7 +335,7 @@
 								</div>
 							</div>
 							<div class="single-sidebar-widget ads-widget">
-								<img class="img-fluid" src="{{asset('assets/magazine/img/sidebar-ads.jpg') }}" alt="">
+								<img class="img-fluid" src="{{asset('assets/magazine/img/sidebar-ads.jpg')}}" alt="">
 							</div>
 							<div class="single-sidebar-widget newsletter-widget">
 								<h6 class="title">Newsletter</h6>
@@ -332,7 +350,7 @@
 											<input class="form-control" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'" type="text">
 										</div>
 									</div>
-									<a href="{{asset('assets/magazine/#" class="bbtns">Subcribe</a>
+									<a href="#" class="bbtns">Subcribe</a>
 								</div>
 								<p>
 									You can unsubscribe us at any time
@@ -342,61 +360,61 @@
 								<h6 class="title">Most Popular</h6>
 								<div class="single-list flex-row d-flex">
 									<div class="thumb">
-										<img src="{{asset('assets/magazine/img/m1.jpg') }}" alt="">
+										<img src="{{asset('assets/magazine/img/m1.jpg')}}" alt="">
 									</div>
 									<div class="details">
-										<a href="{{asset('assets/magazine/image-post.html">
+										<a href="image-post.html">
 											<h6>Help Finding Information
 											Online is so easy</h6>
 										</a>
 										<ul class="meta">
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+											<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="single-list flex-row d-flex">
 									<div class="thumb">
-										<img src="{{asset('assets/magazine/img/m2.jpg') }}" alt="">
+										<img src="{{asset('assets/magazine/img/m2.jpg')}}" alt="">
 									</div>
 									<div class="details">
-										<a href="{{asset('assets/magazine/image-post.html">
+										<a href="image-post.html">
 											<h6>Compatible Inkjet Cartr
 											world famous</h6>
 										</a>
 										<ul class="meta">
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+											<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="single-list flex-row d-flex">
 									<div class="thumb">
-										<img src="{{asset('assets/magazine/img/m3.jpg') }}" alt="">
+										<img src="{{asset('assets/magazine/img/m3.jpg')}}" alt="">
 									</div>
 									<div class="details">
-										<a href="{{asset('assets/magazine/image-post.html">
+										<a href="image-post.html">
 											<h6>5 Tips For Offshore Soft
 											Development </h6>
 										</a>
 										<ul class="meta">
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+											<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 										</ul>
 									</div>
 								</div>
 								<div class="single-list flex-row d-flex">
 									<div class="thumb">
-										<img src="{{asset('assets/magazine/img/m4.jpg') }}" alt="">
+										<img src="{{asset('assets/magazine/img/m4.jpg')}}" alt="">
 									</div>
 									<div class="details">
-										<a href="{{asset('assets/magazine/image-post.html">
+										<a href="image-post.html">
 											<h6>5 Tips For Offshore Soft
 											Development </h6>
 										</a>
 										<ul class="meta">
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
-											<li><a href="{{asset('assets/magazine/#"><span class="lnr lnr-bubble"></span>06</a></li>
+											<li><a href="#"><span class="lnr lnr-calendar-full"></span>03 April, 2018</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>06</a></li>
 										</ul>
 									</div>
 								</div>
@@ -409,28 +427,28 @@
 											<i class="fa fa-facebook" aria-hidden="true"></i>
 											<p>983 Likes</p>
 										</div>
-										<a href="{{asset('assets/magazine/#">Like our page</a>
+										<a href="#">Like our page</a>
 									</li>
 									<li class="d-flex justify-content-between align-items-center tw">
 										<div class="icons d-flex flex-row align-items-center">
 											<i class="fa fa-twitter" aria-hidden="true"></i>
 											<p>983 Followers</p>
 										</div>
-										<a href="{{asset('assets/magazine/#">Follow Us</a>
+										<a href="#">Follow Us</a>
 									</li>
 									<li class="d-flex justify-content-between align-items-center yt">
 										<div class="icons d-flex flex-row align-items-center">
 											<i class="fa fa-youtube-play" aria-hidden="true"></i>
 											<p>983 Subscriber</p>
 										</div>
-										<a href="{{asset('assets/magazine/#">Subscribe</a>
+										<a href="#">Subscribe</a>
 									</li>
 									<li class="d-flex justify-content-between align-items-center rs">
 										<div class="icons d-flex flex-row align-items-center">
 											<i class="fa fa-rss" aria-hidden="true"></i>
 											<p>983 Subscribe</p>
 										</div>
-										<a href="{{asset('assets/magazine/#">Subscribe</a>
+										<a href="#">Subscribe</a>
 									</li>
 								</ul>
 							</div>
@@ -449,81 +467,81 @@
 				<div class="col-lg-3 col-md-6 single-footer-widget">
 					<h4>Top Products</h4>
 					<ul>
-						<li><a href="{{asset('assets/magazine/#">Managed Website</a></li>
-						<li><a href="{{asset('assets/magazine/#">Manage Reputation</a></li>
-						<li><a href="{{asset('assets/magazine/#">Power Tools</a></li>
-						<li><a href="{{asset('assets/magazine/#">Marketing Service</a></li>
+						<li><a href="#">Managed Website</a></li>
+						<li><a href="#">Manage Reputation</a></li>
+						<li><a href="#">Power Tools</a></li>
+						<li><a href="#">Marketing Service</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-2 col-md-6 single-footer-widget">
 					<h4>Quick Links</h4>
 					<ul>
-						<li><a href="{{asset('assets/magazine/#">Jobs</a></li>
-						<li><a href="{{asset('assets/magazine/#">Brand Assets</a></li>
-						<li><a href="{{asset('assets/magazine/#">Investor Relations</a></li>
-						<li><a href="{{asset('assets/magazine/#">Terms of Service</a></li>
+						<li><a href="#">Jobs</a></li>
+						<li><a href="#">Brand Assets</a></li>
+						<li><a href="#">Investor Relations</a></li>
+						<li><a href="#">Terms of Service</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-2 col-md-6 single-footer-widget">
 					<h4>Features</h4>
 					<ul>
-						<li><a href="{{asset('assets/magazine/#">Jobs</a></li>
-						<li><a href="{{asset('assets/magazine/#">Brand Assets</a></li>
-						<li><a href="{{asset('assets/magazine/#">Investor Relations</a></li>
-						<li><a href="{{asset('assets/magazine/#">Terms of Service</a></li>
+						<li><a href="#">Jobs</a></li>
+						<li><a href="#">Brand Assets</a></li>
+						<li><a href="#">Investor Relations</a></li>
+						<li><a href="#">Terms of Service</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-2 col-md-6 single-footer-widget">
 					<h4>Resources</h4>
 					<ul>
-						<li><a href="{{asset('assets/magazine/#">Guides</a></li>
-						<li><a href="{{asset('assets/magazine/#">Research</a></li>
-						<li><a href="{{asset('assets/magazine/#">Experts</a></li>
-						<li><a href="{{asset('assets/magazine/#">Agencies</a></li>
+						<li><a href="#">Guides</a></li>
+						<li><a href="#">Research</a></li>
+						<li><a href="#">Experts</a></li>
+						<li><a href="#">Agencies</a></li>
 					</ul>
 				</div>
 				<div class="col-lg-3 col-md-6 single-footer-widget">
 					<h4>Instragram Feed</h4>
 					<ul class="instafeed d-flex flex-wrap">
-						<li><img src="{{asset('assets/magazine/img/i1.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i2.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i3.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i4.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i5.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i6.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i7.jpg') }}" alt=""></li>
-						<li><img src="{{asset('assets/magazine/img/i8.jpg') }}" alt=""></li>
+						<li><img src="img/i1.jpg" alt=""></li>
+						<li><img src="img/i2.jpg" alt=""></li>
+						<li><img src="img/i3.jpg" alt=""></li>
+						<li><img src="img/i4.jpg" alt=""></li>
+						<li><img src="img/i5.jpg" alt=""></li>
+						<li><img src="img/i6.jpg" alt=""></li>
+						<li><img src="img/i7.jpg" alt=""></li>
+						<li><img src="img/i8.jpg" alt=""></li>
 					</ul>
 				</div>
 			</div>
 			<div class="footer-bottom row align-items-center">
 				<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="{{asset('assets/magazine/https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 				<div class="col-lg-4 col-md-12 footer-social">
-					<a href="{{asset('assets/magazine/#"><i class="fa fa-facebook"></i></a>
-					<a href="{{asset('assets/magazine/#"><i class="fa fa-twitter"></i></a>
-					<a href="{{asset('assets/magazine/#"><i class="fa fa-dribbble"></i></a>
-					<a href="{{asset('assets/magazine/#"><i class="fa fa-behance"></i></a>
+					<a href="#"><i class="fa fa-facebook"></i></a>
+					<a href="#"><i class="fa fa-twitter"></i></a>
+					<a href="#"><i class="fa fa-dribbble"></i></a>
+					<a href="#"><i class="fa fa-behance"></i></a>
 				</div>
 			</div>
 		</div>
 	</footer>
 	<!-- End footer Area -->
-	<script src="{{asset('assets/magazine/js/vendor/jquery-2.2.4.min.js') }}"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js') }}" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script src="{{asset('assets/magazine/js/vendor/bootstrap.min.js') }}"></script>
+	<script src="{{asset('assets/magazine/js/vendor/jquery-2.2.4.min.js')}"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="{{asset('assets/magazine/js/vendor/bootstrap.min.js')}"></script>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
-	<script src="{{asset('assets/magazine/js/easing.min.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/hoverIntent.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/superfish.min.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/jquery.ajaxchimp.min.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/jquery.magnific-popup.min.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/mn-accordion.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/jquery-ui.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/jquery.nice-select.min.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/owl.carousel.min.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/mail-script.js') }}"></script>
-	<script src="{{asset('assets/magazine/js/main.js') }}"></script>
+	<script src="{{asset('assets/magazine/js/easing.min.js')}"></script>
+	<script src="{{asset('assets/magazine/js/hoverIntent.js')}"></script>
+	<script src="{{asset('assets/magazine/js/superfish.min.js')}"></script>
+	<script src="{{asset('assets/magazine/js/jquery.ajaxchimp.min.js')}"></script>
+	<script src="{{asset('assets/magazine/js/jquery.magnific-popup.min.js')}"></script>
+	<script src="{{asset('assets/magazine/js/mn-accordion.js')}"></script>
+	<script src="{{asset('assets/magazine/js/jquery-ui.js')}"></script>
+	<script src="{{asset('assets/magazine/js/jquery.nice-select.min.js')}"></script>
+	<script src="{{asset('assets/magazine/js/owl.carousel.min.js')}"></script>
+	<script src="{{asset('assets/magazine/js/mail-script.js')}"></script>
+	<script src="{{asset('assets/magazine/js/main.js')}"></script>
 </body>
 </html>

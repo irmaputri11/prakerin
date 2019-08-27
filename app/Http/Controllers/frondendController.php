@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Artikel;
+use App\artikel;
 use App\Kategori;
 use App\Tag;
 use App\User;
@@ -16,26 +16,35 @@ class frondendController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    {
-            $slidebar = Artikel::with('kategori')->orderBy('created_at','desc')->get();      
-            return view ('frontend.index',compact('slidebar'));
+    {   
+            
+            $artikel = artikel::with('kategori', 'tag')->orderBy('created_at','desc')->get();      
+            return view ('index',compact('artikel'));
     
     }
 
-
-    public function katalog(Artikel $artikel)
+    public function blog(Artikel $artikel)
     {
-        return view ('frontend.catalog');
+        $artikel = artikel::all();
+        return view ('frontend.index2', compact('artikel'));
     }
 
-  public function singlekatalog(Artikel $artikel)
-  {
-        $artikel = Artikel::with('kategori', 'tag', 'user')->where('slug', '=',$artikel->slug)->first();
-        return view('frontend.details',compact('artikel'));
+    public function singleblog(Artikel $artikel)
+    {
+        $kategori = Kategori::all();
+        $tag = Tag::all();
+        return view('frontend.singgle-blog', compact('artikel','kategori','tag'));
     }
 
     public function tentang()
     {
-        return view ('frontend.about');
+        return view ('about');
+    }
+
+    
+    public function kategoripost(Artikel $kategori)
+    {
+        $kategori = kategori::all();
+        return view ('frontend.kategori-post', compact('kategori'));
     }
 }
