@@ -128,7 +128,7 @@
 										
 										<div class="post-lists">
                                             <div id="kategori">
-
+												
                                             </div>
 										</div>
 									</div>
@@ -157,6 +157,7 @@
 								</div>
 								
 			<!-- End latest-post Area -->
+			
 		</div>
 		
 		<!-- start footer Area -->
