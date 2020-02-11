@@ -12,7 +12,7 @@
 
 <section class="page-content container-fluid">
         <div class="row">
-            <div class="col-12">
+            <div class="col-12">`
                 <div class="card">
                         <center>
                                 <div class="card-header">Tambah Artikel</div>

@@ -121,11 +121,6 @@ class artikelController extends Controller
     public function destroy($id)
     {
         $artikel = artikel::findOrFail($id)->delete();
-         $response = [
-            'success' => true,
-            'data' => $artikel,
-            'message' => 'berhasil'
-        ];
-        return response()->json($response, 200);
+         
     }
 }
